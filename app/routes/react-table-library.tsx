@@ -1,6 +1,6 @@
 import type { MetaFunction } from "@remix-run/node";
 import { Link, json, useLoaderData } from "@remix-run/react";
-import { CompactTable } from '@table-library/react-table-library/compact';
+import { CompactTable } from '@table-library/react-table-library/compact.js';
 
 import devices from "~/../devices.js"
 

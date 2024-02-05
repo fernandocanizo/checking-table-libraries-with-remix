@@ -11,10 +11,12 @@
     "typecheck": "tsc"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.3",
     "@remix-run/css-bundle": "^2.6.0",
     "@remix-run/node": "^2.6.0",
     "@remix-run/react": "^2.6.0",
     "@remix-run/serve": "^2.6.0",
+    "@table-library/react-table-library": "^4.1.7",
     "daisyui": "^4.6.1",
     "isbot": "^4.1.0",
     "react": "^18.2.0",

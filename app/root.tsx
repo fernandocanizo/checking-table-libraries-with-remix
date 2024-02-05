@@ -1,3 +1,5 @@
+import style from "~/style.css"
+
 import { cssBundleHref } from "@remix-run/css-bundle";
 import type { LinksFunction } from "@remix-run/node";
 import {
@@ -11,6 +13,7 @@ import {
 
 export const links: LinksFunction = () => [
   ...(cssBundleHref ? [{ rel: "stylesheet", href: cssBundleHref }] : []),
+  { rel: "stylesheet", href: style },
 ];
 
 export default function App() {

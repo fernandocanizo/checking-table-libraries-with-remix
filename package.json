@@ -17,6 +17,7 @@
     "@remix-run/react": "^2.6.0",
     "@remix-run/serve": "^2.6.0",
     "@table-library/react-table-library": "^4.1.7",
+    "ag-grid-community": "^31.0.3",
     "ag-grid-react": "^31.0.3",
     "daisyui": "^4.6.1",
     "isbot": "^4.1.0",

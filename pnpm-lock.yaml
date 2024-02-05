@@ -23,6 +23,9 @@ dependencies:
   '@table-library/react-table-library':
     specifier: ^4.1.7
     version: 4.1.7(@emotion/react@11.11.3)(react-dom@18.2.0)(react@18.2.0)
+  ag-grid-community:
+    specifier: ^31.0.3
+    version: 31.0.3
   ag-grid-react:
     specifier: ^31.0.3
     version: 31.0.3(react-dom@18.2.0)(react@18.2.0)

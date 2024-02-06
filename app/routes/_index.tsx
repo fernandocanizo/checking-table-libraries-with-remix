@@ -21,7 +21,7 @@ export default function Index() {
         <Link to="/ag-grid">AG Grid</Link>
       </li>
       <li>
-        <Link to="react-data-grid">React Data Grid</Link>
+        <Link to="/react-data-grid">React Data Grid</Link>
       </li>
     </ul>
   );

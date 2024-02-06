@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@emotion/react": "^11.11.3",
+    "@inovua/reactdatagrid-community": "^5.10.2",
     "@remix-run/css-bundle": "^2.6.0",
     "@remix-run/node": "^2.6.0",
     "@remix-run/react": "^2.6.0",
